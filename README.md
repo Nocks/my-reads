@@ -16,3 +16,9 @@ To get started developing right away:
 
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
+
+## Resources and Documentation:
+
+* [React Router Documentation](React Router Documentation)
+* [React API](https://facebook.github.io/react/docs/react-api.html)
+* [Project starter template](https://github.com/udacity/reactnd-project-myreads-starter)
