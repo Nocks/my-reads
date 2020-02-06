@@ -19,6 +19,6 @@ To get started developing right away:
 
 ## Resources and Documentation:
 
-* [React Router Documentation](React Router Documentation)
+* [React Router Documentation](https://github.com/facebookincubator/create-react-app)
 * [React API](https://facebook.github.io/react/docs/react-api.html)
 * [Project starter template](https://github.com/udacity/reactnd-project-myreads-starter)
